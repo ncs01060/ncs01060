@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&textBg=YoungMin%20render&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
   
 </div>
 
