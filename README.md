@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-0000?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-0000?style=for-the-badge&logo=flask&logoColor=white">
 
 </div>
 
