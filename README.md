@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncs01060&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncs01060&show_icons=true&theme=cobalt)
 </div>
 
 
