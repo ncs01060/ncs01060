@@ -51,6 +51,7 @@
 </div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ncs01060)](https://github.com/ncs01060)
 
 # Information
 
