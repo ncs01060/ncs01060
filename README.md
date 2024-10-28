@@ -1,6 +1,11 @@
-<div align="center">
+
+<h3>
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World!&section=header&textBg=false"/>
-</div>
+</h3>
+
+<h3>
+  Skills
+</h3>
 <div align="center">
   <h3>언어</h3>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
