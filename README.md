@@ -25,7 +25,7 @@
     <summary>
       정보
     </summary>
-     이름 : 이영민
-     나이 : 18
+     이름 : 이영민<br/>
+     나이 : 18<br/>
      Email : codingmin@icloud.com
   </details>
