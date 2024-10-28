@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-0000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/#ffffff?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
 
 <h3>FullStack Developer</h3>
 
