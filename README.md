@@ -19,15 +19,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
+
+</div>
   <details>
     <summary>
-      토글 제목
+      정보
     </summary>
-     토글 안 내용
+     이름 : 이영민
+     나이 : 18
+     Email : codingmin@icloud.com
   </details>
-
-  
-</div>
-</div>
-
