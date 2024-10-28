@@ -15,7 +15,19 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <details>
+    <summary>
+      토글 제목
+    </summary>
+     토글 안 내용
+  </details>
+
+  
+</div>
 </div>
 
