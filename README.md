@@ -37,13 +37,11 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 </div>
 
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-  <br/>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
 
   <details>
     <summary>
