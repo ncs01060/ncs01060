@@ -1,5 +1,5 @@
 
-<h3>
+<h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World!&section=header&textBg=false"/>
 </h3>
 
