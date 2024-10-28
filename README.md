@@ -17,7 +17,6 @@
 <br/>
 <p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
-  ㅇㅁ라ㅣ멀;ㅣㅏㅂ;ㅣㅏㅣ;다
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
 </p>
 
