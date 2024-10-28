@@ -46,11 +46,14 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
+
 # Information
 
   <details>
