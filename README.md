@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20World!&section=header&textBg=false"/>
 </h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fncs01060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# 🧠 이영민 기술 포트폴리오 (2025 기준)
+# 🧠 기술 포트폴리오 (2025 기준)
 
 고등학생 개발자 이영민의 2025년 기준 기술 포트폴리오입니다.
 
