@@ -4,75 +4,92 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fncs01060&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Skills
+# 🧠 이영민 기술 포트폴리오 (2025 기준)
+
+고등학생 개발자 이영민의 2025년 기준 기술 포트폴리오입니다.
+
+---
+
+## 📌 사용 언어
+
+- **Python** (주 사용 언어, 다양한 프로젝트 활용)  
+- JavaScript / TypeScript (웹 프론트·백엔드)  
+- Dart (Flutter 모바일 앱)  
+- Java, C, R (기초 수준)  
+
+---
+
+## 🌐 웹 및 서버 개발
+
+- Flask (소규모 웹/API 서버)  
+- React / Next.js (컴포넌트 기반 UI 및 SSR 경험)  
+- Django (기본 CRUD 프로젝트 경험)  
+- Vue.js (기본 프론트엔드)  
+
+---
+
+## 🖥 데스크탑 애플리케이션
+
+- PyQt5 / PyQtWebEngine (GUI 앱 제작)  
+- Electron (웹 기술 기반 데스크탑 앱)  
+
+---
+
+## 🤖 챗봇 및 플러그인
+
+- discord.js (디스코드 봇 개발)  
+
+---
+
+## 📱 모바일 앱 개발
+
+- Flutter (크로스 플랫폼, Firebase 연동)  
+- React Native (기초 앱 구성 가능)  
+
+---
+
+## 🗃 데이터베이스
+
+- MySQL, SQLite3 (관계형 DB)  
+- Firebase (인증, Firestore, Storage)  
+- MongoDB (비정형 데이터 저장)  
+
+---
+
+## ⚙️ 하드웨어 연동
+
+- Jetson Nano (AI 엣지 디바이스)  
+- 라즈베리파이, 아두이노, 마이크로비트 (IoT 및 센서 제어)  
+
+---
+
+## 🧠 인공지능 및 데이터 분석
+
+- TensorFlow (기초 딥러닝)  
+- Pandas (데이터 처리)  
+- HuggingFace Transformers (자연어처리)  
+- Kaggle (데이터 분석·대회 경험)  
+- Ollama (로컬 LLM 테스트)  
+
+---
+
+## 프로필 및 통계
+
 <div align="center">
-  <h3>언어</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-
-  <h3>프레임워크 & 라이브러리</h3>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white">
-  <img src="https://img.shields.io/badge/Json-server-ff6f61?style=for-the-badge&logo=json&logoColor=white">
-
-  <h3>데스크탑 & 모바일</h3>
-  <img src="https://img.shields.io/badge/PyQt-0080FF?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyQtWebEngine-0080FF?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-  <h3>데이터베이스</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
-
-  <h3>하드웨어</h3>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Microbit-00BFFF?style=for-the-badge&logo=microbit&logoColor=white">
-
-  <h3>인공지능 & 데이터분석</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-F5900E?style=for-the-badge&logo=huggingface&logoColor=white">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-</div>
-
-# Profile
-
-<div align="center">
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=ncs01060&theme=cobalt&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ncs01060&show_icons=true&theme=radical)
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncs01060&show_icons=true&theme=radical)
 </div>
 
-# Information
+---
 
-<details>
-  <summary>개인 정보</summary>
-  이름: 이영민<br/>
-  나이: 19<br/>
-  Email: codingmin@icloud.com
-</details>
+## 연락처
+
+- 이메일: codingmin@icloud.com  
+- GitHub 이슈 또는 메일로 연락주세요!
+
+---
