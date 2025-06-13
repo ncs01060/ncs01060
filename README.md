@@ -76,7 +76,7 @@
 ## 프로필 및 통계
 
 <div align="center">
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
+  ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ncs01060)](https://solved.ac/ncs01060)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncs01060&layout=compact&theme=dark)
   
